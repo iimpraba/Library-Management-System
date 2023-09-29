@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+/* Style input fields and buttons */
+input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+}
+body {
+  background: linear-gradient(135deg, #71e6bb, #9b59);
+  font-family: cursive;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #00ff40;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b33300;
+}
+
+/* Style lists */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
